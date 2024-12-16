@@ -1,0 +1,52 @@
+                .Video-title{
+                    font-family: Arial;
+                    font-size:18px;
+                    font-weight: bold;
+                    width: 300px;
+                    line-height:24px;
+                    margin-bottom:5px;
+                }
+                .data{
+                  margin-top:2px;
+                  color: gray;
+                }
+
+                .Text{
+                    color: gray;
+                    font-size: 16px
+                    margin-bottom:6px;
+                }
+
+                .Description{
+                    font-family: Arial;
+                    font-size:14px;
+                    color:grey;
+                    margin-top: 25px;
+                    margin-bottom:400px;
+                    
+
+                }
+
+                .Final{
+                   font-size:18px;
+                   font-family: Arial;
+                   margin-bottom:50px;
+                   background-color:rgb(227,66,66);
+                    color: aliceblue;
+                    padding-top:20px;
+                    padding-bottom:20px;
+                    text-align:center;
+                    border-radius:7px;
+                    
+                }
+
+                .underscore:hover{
+                    text-decoration: underline;
+                    cursor: pointer;
+                    margin-left:10px;
+                }
+
+                .underscore{
+                    margin-left:10px;
+                }
+          
